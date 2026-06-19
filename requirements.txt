@@ -1,0 +1,13 @@
+# Production
+click>=8.1.0        # Great for building CLIs gracefully
+
+# Development & Quality
+black>=24.0.0
+ruff>=0.2.0
+mypy>=1.8.0
+pre-commit>=3.6.0
+
+# Testing
+pytest>=8.0.0
+pytest-mock>=3.12.0
+coverage>=7.4.0
